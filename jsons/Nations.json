@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Vermont",
+		"leaderName": "Thomas Chittenden",
+		"adjective": ["vermonter"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
